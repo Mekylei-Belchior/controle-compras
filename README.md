@@ -37,7 +37,12 @@ Os dados que já se encontram inseridos nas guias da pasta de trabalho são mera
 
 
 ### Análises  
+Clique nos links para visualizar os dashboards.  
 
 [Dashboard-2020](imagens/dashboard-2020.pdf)  
 
-![](imagens/dashboard-comprador.png)  
+[Comprador-2020](imagens/comprador-2020.pdf)  
+
+[Dashboard-2021](imagens/dashboard-2021.pdf)  
+
+[Comprador-2020](imagens/comprador-2021.pdf) 

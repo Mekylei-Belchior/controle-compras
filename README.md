@@ -38,6 +38,6 @@ Os dados que já se encontram inseridos nas guias da pasta de trabalho são mera
 
 ### Análises  
 
-![](imagens/dashboard-geral.png)  
+[Dashboard-2020](imagens/dashboard-2020.pdf)  
 
 ![](imagens/dashboard-comprador.png)  

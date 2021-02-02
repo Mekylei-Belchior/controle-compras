@@ -41,4 +41,4 @@ Clique nos links para visualizar os dashboards.
 
 [Dashboard-2021](imagens/dashboard-2021.pdf)  
 
-[Comprador-2020](imagens/comprador-2021.pdf) 
+[Comprador-2021](imagens/comprador-2021.pdf) 

@@ -35,10 +35,3 @@ Os dados que já se encontram inseridos nas guias da pasta de trabalho são mera
 
 ![](imagens/sem-novos-registros.png)  
 
-
-### Análises  
-Clique nos links para visualizar os dashboards.  
-
-[Dashboard-2021](imagens/dashboard-2021.pdf)  
-
-[Comprador-2021](imagens/comprador-2021.pdf) 
